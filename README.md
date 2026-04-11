@@ -7,164 +7,117 @@
 
 ---
 
-### The SAGUS Initiative
-**Defining the next generation of State-Aware Intelligence.**
+###  The SAGUS Initiative
+**Next-Generation State-Aware Graph Intelligence**
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/rocket.gif" width="50" />
-
-*Challenging the $O(N^2)$ complexity of standard Transformers with a modular $O(N)$ graph-driven execution logic. Focused on local-first inference, state-transition via Delta Functions, and neural-symbolic convergence.*
+*Challenging the $O(N^2)$ constraints of modern Transformers. Implementing a modular $O(N)$ graph-driven execution logic designed for local-first inference and neural-symbolic convergence.*
 
 ---
 
-## 🚀 Key Initiatives & Systems
+</div>
+
+## 📂 Engineering Portfolio
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="top">
-      <table border="0">
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/graph-network.gif" width="60" /></td>
-          <td>
-            <b>SAGUS Core</b><br>
-            <small>State-Aware Graph Backend</small>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <ul>
-              <li><small>Implemented a modular O(N) execution logic for linear complexity.</small></li>
-              <li><small>Optimized for neural-symbolic integration and localized inference models.</small></li>
-              <li><small>Managed state via Delta Functions for predictable transitions.</small></li>
-            </ul>
-            <code>Python</code> <code>C++</code> <code>Graph Theory</code> <code>AI Architect</code>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h4>💠 SAGUS Core Architecture</h4>
+      <ul>
+        <li><small>Developed a <b>State-Aware Backend</b> using Recursive Language Models (RLM).</small></li>
+        <li><small>Engineered state transition logic via a custom <b>Delta Function</b> for deterministic AI behavior.</small></li>
+        <li><small>Optimized for edge-deployment with a focus on privacy-centric, local-first inference.</small></li>
+      </ul>
+      <code>C++</code> <code>Graph Theory</code> <code>State Machines</code>
     </td>
-    <td width="50%" align="top">
-      <table border="0">
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/robot.gif" width="60" /></td>
-          <td>
-            <b>Gemini Financial Advisor</b><br>
-            <small>AI-Powered Advisor Chatbot</small>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <ul>
-              <li><small>Leverages Google Gemini 2.5 Flash for nuanced, accurate guidance.</small></li>
-              <li><small>Deployed via Flask to provide an interactive web interface.</small></li>
-              <li><small>Focuses on personalized financial strategies and predictive analytics.</small></li>
-            </ul>
-            <code>Google Gemini</code> <code>Flask</code> <code>NLP</code> <code>Python</code>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h4>📊 Real-Time Demand Volatility Streamer</h4>
+      <ul>
+        <li><small>Built a high-throughput streaming pipeline to track supply chain fluctuations.</small></li>
+        <li><small>Implemented <b>Kafka</b> and <b>Apache Spark</b> for low-latency data processing.</small></li>
+        <li><small>Integrated <b>Power BI</b> for real-time executive-level demand visualization.</small></li>
+      </ul>
+      <code>Kafka</code> <code>Apache Spark</code> <code>Hadoop</code> <code>Power BI</code>
     </td>
   </tr>
-  
+
   <tr>
-    <td width="50%" align="top">
-      <table border="0">
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/data-analysis.gif" width="60" /></td>
-          <td>
-            <b>Retail Intelligence EDA</b><br>
-            <small>Data Cleaning & Visualization Platform</small>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <ul>
-              <li><small>Performed complete data cleaning pipelines on large-scale retail datasets.</small></li>
-              <li><small>Conducted deep segmentation to define customer behavior patterns.</small></li>
-              <li><small>Visualized dynamic sales trends for optimized inventory management.</small></li>
-            </ul>
-            <code>Python</code> <code>EDA</code> <code>Sales Optimization</code> <code>DataViz</code>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h4>🏦 Gemini Financial Intelligence</h4>
+      <ul>
+        <li><small>Architected an advisor bot using <b>Gemini 2.5 Flash</b> for personalized fiscal analysis.</small></li>
+        <li><small>Engineered <b>Bank Statement Analysers</b> to automate personal expense categorization.</small></li>
+        <li><small>Utilized <b>Flask</b> and <b>RAG</b> (Retrieval-Augmented Generation) for data grounding.</small></li>
+      </ul>
+      <code>LLMs</code> <code>Flask</code> <code>RAG</code> <code>Python</code>
     </td>
-    <td width="50%" align="top">
-      <table border="0">
-        <tr>
-          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/algorithms.gif" width="60" /></td>
-          <td>
-            <b>Student Performance ML</b><br>
-            <small>Predictive Academic Outcome Modeling</small>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <ul>
-              <li><small>Developed ML models to estimate future student academic performance.</small></li>
-              <li><small>Identifies at-risk students based on diverse behavioral features.</small></li>
-              <li><small>Designed to support early educational intervention strategies.</small></li>
-            </ul>
-            <code>Python</code> <code>ML</code> <code>Predictive Analytics</code> <code>Educational Data</code>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <h4>🏗️ Infrastructure & ETL Systems</h4>
+      <ul>
+        <li><small>Designed data quality infrastructure at <b>LaunchED Global</b>, reducing manual overhead.</small></li>
+        <li><small>Optimized <b>AWS</b> and <b>Oracle Cloud</b> pipelines for scalable research analytics.</small></li>
+        <li><small>Built automated validation checks for large-scale financial datasets.</small></li>
+      </ul>
+      <code>AWS</code> <code>OCI</code> <code>SQL</code> <code>ETL</code>
     </td>
   </tr>
 </table>
+
 ---
 
-### 🛠️ Technical Arsenal
+## 🛠️ Technical Ecosystem
 
 <table border="0" width="100%">
-  <tr align="center">
-    <td>
-      <b>Core & Systems</b><br>
-      <code>Python</code> <code>C++</code> <code>CMake</code><br>
-      <code>SQL</code> <code>LaTeX</code>
+  <tr align="left">
+    <td width="33%">
+      <b>Systems & Core</b><br>
+      <code>C++</code> <code>CMake</code><br>
+      <code>Python</code> <code>SQL</code><br>
+      <code>LaTeX</code>
     </td>
-    <td>
+    <td width="33%">
       <b>Data Engineering</b><br>
       <code>Apache Spark</code> <code>Kafka</code><br>
-      <code>Hadoop</code> <code>ETL Pipelines</code>
+      <code>Hadoop</code> <code>ETL</code><br>
+      <code>Power BI</code>
     </td>
-    <td>
-      <b>Cloud & Intelligence</b><br>
-      <code>AWS</code> <code>OCI (Oracle)</code><br>
-      <code>RAG</code> <code>NLP</code>
+    <td width="33%">
+      <b>Architectures</b><br>
+      <code>Distributed Systems</code><br>
+      <code>State-Aware Backends</code><br>
+      <code>Neural-Symbolic AI</code><br>
+      <code>Oracle OCI</code>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Professional Milestones
+## 💻 LeetCode Dashboard
+**Algorithmic Rigor & Problem Solving**
 
-<table border="0">
-  <tr align="top">
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/certifications.gif" width="60" /><br>
-      <b>Oracle Triple Certified</b><br>
-      <small>AI Foundations, Cloud Foundations, Data Platform</small>
-    </td>
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/experience.gif" width="60" /><br>
-      <b>Infrastructure Lead</b><br>
-      <small>Data Quality & Analytics at LaunchED Global & ROT</small>
-    </td>
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/book.gif" width="60" /><br>
-      <b>Published Author</b><br>
-      <small><i>Ideologies Promoting Reality & Logic</i></small>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /> | **Metric** | **Value** |
+| :--- | :--- | :--- |
+| 🧩 | **Problems Solved** | **430+** |
+| 📈 | **Contest Rating** | **1415** |
+| 🎯 | **Primary Focus** | **Data Structures & Algorithms (C++/Python)** |
+
+<br>
+
+<img src="https://leetcard.jacoblin.cool/prannessh?theme=dark&font=Barlow%20Condensed&ext=heatmap" width="800" alt="LeetCode Heatmap" />
+
+</div>
 
 ---
 
-#### 🧠 Algorithmic Expertise
-**LeetCode Dashboard:** **430+** Problems Solved | **Current Rating:** **1415**
+## 🏆 Professional Profile
 
----
+* **Oracle Triple Certified** — AI Foundations, Cloud Foundations, Data Platform.
+* **Industry Experience** — 9+ roles including <b>NVIDIA Developer Program</b>, <b>Perplexity</b>, and <b>LaunchED Global</b>.
+* **Academic Excellence** — B.Tech CSE at **LPU** (CGPA: 8.56) | Dean's List.
+* **Author** — Published *Ideologies Promoting Reality & Logic* (Amazon).
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mshibanami/action-get-user-status/master/assets/github-status-dark.png" width="160" />
-</p>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/mshibanami/action-get-user-status/master/assets/github-status-dark.png" width="140" />
 </div>
