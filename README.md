@@ -1,50 +1,54 @@
-# ⚡ Prannessh KVA
-**AI Architect | Data Engineer | Systems Developer**
+<div align="center">
+
+# Prannessh KVA
+**AI Architect & Systems Engineer**
+
+[Portfolio](https://prannesshkva.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/prannesshkva) • [Email](mailto:prannesshkva@gmail.com)
 
 ---
 
-### 🚀 The "North Star" Project: SAGUS
-I am currently engineering **SAGUS**, a State-Aware Graph-Based AI Backend.
-- **Innovation:** Challenging the $O(N^2)$ complexity of standard Transformers with a modular $O(N)$ graph-driven execution logic.
-- **Focus:** Local-first inference, state-transition logic via Delta Functions, and neural-symbolic convergence.
+### The SAGUS Initiative
+**Defining the next generation of State-Aware Intelligence.**
+
+*Challenging the $O(N^2)$ complexity of standard Transformers with a modular $O(N)$ graph-driven execution logic. Focused on local-first inference, state-transition logic via Delta Functions, and neural-symbolic convergence.*
 
 ---
+
+</div>
 
 ### 🛠️ Technical Arsenal
 
-| Category | Tools & Technologies |
+| Category | Specialization |
 | :--- | :--- |
-| **Languages** | `Python` `SQL` `C++` `LaTeX` |
-| **AI & Data** | `PyTorch` `Apache Spark` `NLP` `Computer Vision` `RAG` |
-| **Cloud & Ops** | `AWS` `Docker` `OCI (Oracle Cloud)` `ETL Pipelines` |
-| **Architectures** | `Distributed Systems` `State-Aware Backends` `Neural-Symbolic` |
+| **Core** | `Python` `C++` `SQL` `LaTeX` |
+| **Intelligence** | `PyTorch` `NLP` `Computer Vision` `RAG` `Neural-Symbolic` |
+| **Infrastructure** | `AWS` `OCI` `Docker` `Apache Spark` `Distributed Systems` |
 
 ---
 
-### 📈 Metrics & Activity
+### 💻 Engineering Excellence
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prannessh2006&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prannessh2006&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" height="150" alt="Streak Stats" />
-</p>
+<div align="center">
 
-> **LeetCode Mastery:** 430+ Problems Solved | **Rating:** 1415  
-> <img src="https://leetcard.jacoblin.cool/prannessh?theme=dark&font=Barlow%20Condensed&ext=heatmap" width="400" alt="LeetCode Heatmap" />
+| <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40" /> | **LeetCode Dashboard** |
+| :--- | :--- |
+| **Problems Solved** | **430+** |
+| **Current Rating** | **1415** |
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Prannessh2006&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=888888&icon_color=00d4ff" width="450" alt="GitHub Stats" />
 
-### 🏆 Professional Highlights
-- **Certified Expertise:** Oracle Triple Certified (AI Foundations, Cloud Foundations, Data Platform).
-- **Experience:** Engineering data quality infra at *LaunchED Global* and AI-driven analytics at *ROT*.
-- **Published Author:** *Ideologies Promoting Reality & Logic* (Available on Amazon).
+</div>
 
 ---
 
-### 🌐 Connect & Collaborate
-[Portfolio](https://prannesshkva.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/prannesshkva) • [Email](mailto:your-email@example.com)
+### 🏆 Professional Milestones
+
+* **Oracle Triple Certified** — AI Foundations, Cloud Foundations, and Data Platforms.
+* **Infrastructure Lead** — Engineered ETL pipelines at LaunchED Global and AI-analytics at ROT.
+* **Published Author** — *Ideologies Promoting Reality & Logic* (Amazon).
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mshibanami/action-get-user-status/master/assets/github-status-dark.png" width="200" />
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/mshibanami/action-get-user-status/master/assets/github-status-dark.png" width="180" />
+</div>
