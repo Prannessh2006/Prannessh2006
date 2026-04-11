@@ -16,6 +16,101 @@
 
 ---
 
+## 🚀 Key Initiatives & Systems
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="top">
+      <table border="0">
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/graph-network.gif" width="60" /></td>
+          <td>
+            <b>SAGUS Core</b><br>
+            <small>State-Aware Graph Backend</small>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <ul>
+              <li><small>Implemented a modular O(N) execution logic for linear complexity.</small></li>
+              <li><small>Optimized for neural-symbolic integration and localized inference models.</small></li>
+              <li><small>Managed state via Delta Functions for predictable transitions.</small></li>
+            </ul>
+            <code>Python</code> <code>C++</code> <code>Graph Theory</code> <code>AI Architect</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" align="top">
+      <table border="0">
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/robot.gif" width="60" /></td>
+          <td>
+            <b>Gemini Financial Advisor</b><br>
+            <small>AI-Powered Advisor Chatbot</small>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <ul>
+              <li><small>Leverages Google Gemini 2.5 Flash for nuanced, accurate guidance.</small></li>
+              <li><small>Deployed via Flask to provide an interactive web interface.</small></li>
+              <li><small>Focuses on personalized financial strategies and predictive analytics.</small></li>
+            </ul>
+            <code>Google Gemini</code> <code>Flask</code> <code>NLP</code> <code>Python</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" align="top">
+      <table border="0">
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/data-analysis.gif" width="60" /></td>
+          <td>
+            <b>Retail Intelligence EDA</b><br>
+            <small>Data Cleaning & Visualization Platform</small>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <ul>
+              <li><small>Performed complete data cleaning pipelines on large-scale retail datasets.</small></li>
+              <li><small>Conducted deep segmentation to define customer behavior patterns.</small></li>
+              <li><small>Visualized dynamic sales trends for optimized inventory management.</small></li>
+            </ul>
+            <code>Python</code> <code>EDA</code> <code>Sales Optimization</code> <code>DataViz</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" align="top">
+      <table border="0">
+        <tr>
+          <td align="center"><img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/algorithms.gif" width="60" /></td>
+          <td>
+            <b>Student Performance ML</b><br>
+            <small>Predictive Academic Outcome Modeling</small>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <ul>
+              <li><small>Developed ML models to estimate future student academic performance.</small></li>
+              <li><small>Identifies at-risk students based on diverse behavioral features.</small></li>
+              <li><small>Designed to support early educational intervention strategies.</small></li>
+            </ul>
+            <code>Python</code> <code>ML</code> <code>Predictive Analytics</code> <code>Educational Data</code>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+---
+
 ### 🛠️ Technical Arsenal
 
 <table border="0" width="100%">
@@ -40,50 +135,32 @@
 
 ---
 
-### 💻 Engineering Excellence
+### 🏆 Professional Milestones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prannessh2006&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" height="150" alt="GitHub Stats" />
-</p>
-
-#### <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="25" height="25" /> LeetCode Dashboard
-
-<table border="0" width="100%">
-  <tr align="center">
-    <td width="50%">
-      <p>Problems Solved</p>
-      <h2>430+</h2>
+<table border="0">
+  <tr align="top">
+    <td width="33%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/certifications.gif" width="60" /><br>
+      <b>Oracle Triple Certified</b><br>
+      <small>AI Foundations, Cloud Foundations, Data Platform</small>
     </td>
-    <td width="50%">
-      <p>Current Rating</p>
-      <h2>1415</h2>
+    <td width="33%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/experience.gif" width="60" /><br>
+      <b>Infrastructure Lead</b><br>
+      <small>Data Quality & Analytics at LaunchED Global & ROT</small>
+    </td>
+    <td width="33%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/book.gif" width="60" /><br>
+      <b>Published Author</b><br>
+      <small><i>Ideologies Promoting Reality & Logic</i></small>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Professional Highlights
-
-<table border="0">
-  <tr align="top">
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/certifications.gif" width="80" /><br>
-      <b>Oracle Triple Certified</b><br>
-      <small>AI Foundations, Cloud Foundations, Data Platform</small>
-    </td>
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/experience.gif" width="80" /><br>
-      <b>Infrastructure Lead</b><br>
-      <small>Data Quality & Analytics at LaunchED Global & ROT</small>
-    </td>
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/gifs/book.gif" width="80" /><br>
-      <b>Published Author</b><br>
-      <small><i>Ideologies Promoting Reality & Logic</i> (Amazon)</small>
-    </td>
-  </tr>
-</table>
+#### 🧠 Algorithmic Expertise
+**LeetCode Dashboard:** **430+** Problems Solved | **Current Rating:** **1415**
 
 ---
 
