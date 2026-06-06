@@ -28,7 +28,38 @@ I am a deeply technical researcher and engineer obsessed with pushing the bounda
 
 ---
 
-### 🏆 Key Architectural Projects
+### 🏆 My expertise
+
+**Agentic AI & Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
+</p>
+
+**Backend Frameworks & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Qdrant-FF5252?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+</p>
+
+**Tools, Viz & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
+</p>
+
+---
+
+### 📂 Key Architectural Projects
 
 <table width="100%">
   <tr>
@@ -59,24 +90,17 @@ I am a deeply technical researcher and engineer obsessed with pushing the bounda
 
 ---
 
-### 💻 Technical Arsenal
+### 📈 GitHub Stats
 
 <p align="center">
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"></code>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prannessh2006&theme=radical&hide_border=true&background=0D1117" alt="Prannessh's GitHub Streak" />
 </p>
-
----
-
-### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prannessh2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Prannessh's GitHub Stats" />
 </p>
+
+---
 
 <p align="center">
   <i>"It's time to stop guessing and start calculating."</i><br>
