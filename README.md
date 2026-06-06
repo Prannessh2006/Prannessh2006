@@ -5,7 +5,7 @@
 <h3 align="center">Backend Engineer | Data Scientist | AI Architect</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-website.com">
+  <a href="https://prannesshkva.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/prannesshkva">
@@ -29,7 +29,7 @@ My engineering philosophy revolves around dismantling structural bottlenecks (li
 
 * 🧠 **Core Focus:** Deterministic State Machines towards AGI, Cognitive Architecture, Intelligent Retrieval
 * ⚙️ **Engineering:** High-performance Backend Systems, Scalable Data Pipelines, MLOps
-* 🔗 **Portfolio:** Check out my complete body of work at **[My Portfolio Website](https://your-portfolio-website.com)**
+* 🔗 **Portfolio:** Check out my complete body of work at **[My Portfolio Website](https://prannesshkva.vercel.app/)**
 
 ---
 
