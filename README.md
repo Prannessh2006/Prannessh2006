@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E1E1E&height=300&section=header&text=Hi,%20I'm%20Prannessh!&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Pioneering%20Next-Gen%20Agentic%20AI%20&%20Data%20Architecture&descAlignY=55&descAlign=62" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Prannessh+KVA;Architecting+Deterministic+Systems;Pioneering+Agentic+AI" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Backend Engineer | Data Scientist | AI Architect</h3>
 
 <p align="center">
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/prannesshkva">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -20,11 +23,13 @@
 
 ### 🚀 About Me
 
-I am a deeply technical researcher and engineer obsessed with pushing the boundaries of **Agentic AI, Backend Infrastructure, and Data Science**. I specialize in dismantling architectural bottlenecks (like $O(N^2)$ Map-Reduce bloat and Vector RAG cosine collapse) and building deterministic, stateful systems that scale reliably in enterprise environments.
+I am a highly driven Computer Science student transitioning into professional **Backend and Data Engineering** roles this month. I am deeply obsessed with pushing the boundaries of cognitive architecture and am currently exploring deterministic work towards Artificial General Intelligence (AGI). 
 
-* 🧠 **Core Focus:** Cognitive Architecture, Deterministic State Machines, Intelligent Retrieval Routing
-* ⚙️ **Engineering:** High-performance Backend Systems, Real-Time AWS Data Infrastructure
-* 🔬 **Research:** Currently exploring zero-hallucination protocols and RBAC-sovereign LLM bounds
+My engineering philosophy revolves around dismantling structural bottlenecks (like $O(N^2)$ Map-Reduce bloat and Vector RAG cosine collapse) to build stateful systems that scale reliably in mission-critical enterprise environments.
+
+* 🧠 **Core Focus:** Deterministic State Machines towards AGI, Cognitive Architecture, Intelligent Retrieval
+* ⚙️ **Engineering:** High-performance Backend Systems, Scalable Data Pipelines, MLOps
+* 🔗 **Portfolio:** Check out my complete body of work at **[My Portfolio Website](https://your-portfolio-website.com)**
 
 ---
 
