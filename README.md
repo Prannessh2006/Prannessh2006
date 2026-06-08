@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 
-I am a highly driven Computer Science student transitioning into professional **Backend and Data Engineering** roles this month. I am deeply obsessed with pushing the boundaries of cognitive architecture and am currently exploring deterministic work towards Artificial General Intelligence (AGI). 
+I am a highly driven Computer Science student deeply skilled as well as interested in transitioning into **Backend and Data Processing**. I am deeply obsessed with pushing the boundaries of cognitive architecture and am currently exploring deterministic work towards Artificial General Intelligence (AGI). 
 
 My engineering philosophy revolves around dismantling structural bottlenecks (like $O(N^2)$ Map-Reduce bloat and Vector RAG cosine collapse) to build stateful systems that scale reliably in mission-critical enterprise environments.
 
