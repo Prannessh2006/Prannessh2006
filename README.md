@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Prannessh+KVA;Architecting+Deterministic+Systems;Pioneering+Agentic+AI" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Backend Engineer | Data Scientist | AI Architect</h3>
+<h3 align="center">Aspiring Software Development Engineer</h3>
 
 <p align="center">
   <a href="https://prannesshkva.vercel.app/">
