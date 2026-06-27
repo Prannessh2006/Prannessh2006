@@ -238,40 +238,6 @@ I enjoy building software that bridges **Artificial Intelligence**, **Backend En
 
 # 🚀 Featured Projects
 
-## 🧠 SAGUS
-
-### Stateful Agentic Graph Unified System
-
-> Deterministic AI architecture for stateful reasoning and intelligent retrieval.
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/FastAPI-green?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LangGraph-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Qdrant-red?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Redis-red?style=flat-square"/>
-
-</p>
-
-### Highlights
-
-✨ Stateful execution
-
-✨ Adaptive retrieval
-
-✨ Modular backend architecture
-
-✨ Context-aware reasoning
-
-✨ Enterprise-ready APIs
-
----
-
 ## ☁ Real-Time AWS Data Lakehouse
 
 Scalable streaming architecture for large-scale analytics.
