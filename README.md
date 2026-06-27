@@ -1,113 +1,222 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Prannessh+KVA;Architecting+Deterministic+Systems;Pioneering+Agentic+AI" alt="Typing SVG" />
+
+# Hi, I'm Prannessh KVA 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+Intern+%40+ATI+Motors;Backend+%7C+Data+Engineering+%7C+AI;Building+Scalable+Intelligent+Systems;Python+%7C+Kafka+%7C+Spark+%7C+FastAPI" />
+
+### Artificial Intelligence Engineer Intern @ ATI Motors
+
+Building scalable AI systems through Backend Engineering, Data Engineering and Intelligent Analytics.
+
+<p>
+<a href="https://prannesshkva.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/prannesshkva">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prannessh2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:support.sagus@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
 </div>
 
-<h3 align="center">Aspiring Software Development Engineer</h3>
+---
+
+# 🚀 About Me
+
+I'm currently working as an **Artificial Intelligence Engineer Intern at ATI Motors**, where I build AI-driven solutions involving data pipelines, intelligent automation, backend services, and machine learning systems.
+
+I enjoy designing scalable software that combines
+
+- 🤖 Artificial Intelligence
+- ⚡ Backend Engineering
+- 📊 Data Engineering
+- 📈 Analytics
+- ☁ Cloud Infrastructure
+
+My interests lie in building intelligent systems that are not only accurate but also efficient, scalable, and production-ready.
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql"/>
+
+</p>
+
+## AI & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+---
+
+## Data Engineering
+
+<p>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microservices-3C873A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```text
+AI Systems
+├── Backend Engineering
+├── Data Engineering
+├── Machine Learning
+├── Analytics
+├── Distributed Systems
+└── Intelligent Automation
+```
+
+---
+
+# 📂 Featured Projects
+
+## 🧠 SAGUS
+
+Stateful Agentic Graph Unified System
+
+A deterministic cognitive architecture focused on structured reasoning, adaptive retrieval, and stateful execution for intelligent AI applications.
+
+**Tech**
+
+Python • FastAPI • LangGraph • Qdrant • PostgreSQL
+
+---
+
+## ☁ Real-Time AWS Data Lakehouse
+
+Scalable streaming data platform using Kafka, Spark and AWS for analytics and downstream machine learning workloads.
+
+**Tech**
+
+Python • Kafka • Spark • AWS • Docker
+
+---
+
+## 🤖 AI Analytics Platform
+
+Designed AI-powered analytics workflows integrating machine learning models with backend services for intelligent enterprise insights.
+
+**Tech**
+
+Python • FastAPI • PyTorch • Scikit-learn
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://prannesshkva.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/prannesshkva">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/prannesshkva/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/prannesshkva?tab=activity">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</p>
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prannessh2006&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### 🚀 About Me
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prannessh2006&theme=tokyonight&hide_border=true"/>
 
-I am a highly driven Computer Science student deeply skilled as well as interested in transitioning into **Backend and Data Processing**. I am deeply obsessed with pushing the boundaries of cognitive architecture and am currently exploring deterministic work towards Artificial General Intelligence (AGI). 
-
-My engineering philosophy revolves around dismantling structural bottlenecks (like $O(N^2)$ Map-Reduce bloat and Vector RAG cosine collapse) to build stateful systems that scale reliably in mission-critical enterprise environments.
-
-* 🧠 **Core Focus:** Deterministic State Machines towards AGI, Cognitive Architecture, Intelligent Retrieval
-* ⚙️ **Engineering:** High-performance Backend Systems, Scalable Data Pipelines, MLOps
-* 🔗 **Portfolio:** Check out my complete body of work at **[My Portfolio Website](https://prannesshkva.vercel.app/)**
-
----
-
-### 🏆 My expertise
-
-**Agentic AI & Data Science**
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
-  <img src="https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=python&logoColor=white" alt="NLP" />
-</p>
-
-**Backend Frameworks & Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Qdrant-FF5252?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-</p>
-
-**Tools, Viz & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI" />
-</p>
-
----
-
-### 📂 Key Architectural Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Prannessh2006/SAGUS-Cognitive-Architecture-Benchmarks">🧠 SAGUS (Stateful-Agentic-Graph-Unified-System)</a></h4>
-      <p>A next-generational, deterministic cognitive architecture designed to completely solve the LLM Hallucination Crisis and respect strict RBAC compliance. Bypasses GraphRAG token bloat with adaptive context pathfinding.</p>
-      <em>Agentic AI • Deterministic Logic • Hallucination Immunity</em>
-    </td>
-    <td width="50%">
-      <h4><a href="#">🏥 Mediflow AI</a></h4>
-      <p>Advanced healthcare automation and workflow architecture. Engineered to handle highly complex biomedical logic, pharmacovigilance reasoning, and strictly regulated clinical data processing with zero semantic bleeding.</p>
-      <em>Healthcare AI • Automation • Data Sovereignty</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="#">⚡ Adaptive RAG Routing Pipeline</a></h4>
-      <p>An intelligent query router that dynamically classifies incoming enterprise data requests and routes them to the optimal retrieval vector, bridging cross-domain databases without triggering latent space collapse.</p>
-      <em>RAG • Vector Search • Backend Routing</em>
-    </td>
-    <td width="50%">
-      <h4><a href="#">☁️ Real-Time AWS Data Lakehouse</a></h4>
-      <p>A highly scalable, real-time streaming infrastructure built entirely on AWS. Designed to ingest, normalize, and query massive streams of unstructured data for rapid downstream analytics and machine learning applications.</p>
-      <em>AWS • Data Engineering • Streaming Analytics</em>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prannessh2006&theme=radical&hide_border=true&background=0D1117" alt="Prannessh's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prannessh2006&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Prannessh's GitHub Stats" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prannessh2006&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
+# 📈 What I'm Learning
+
+- Distributed AI Systems
+- Apache Kafka Ecosystem
+- Apache Spark Optimization
+- LLM Engineering
+- Production ML Systems
+- Backend Architecture
+- Data Infrastructure
+
+---
+
+# 🤝 Let's Connect
+
 <p align="center">
-  <i>"It's time to stop guessing and start calculating."</i><br>
-  Let's connect: <b><a href="mailto:support.sagus@gmail.com">support.sagus@gmail.com</a></b>
+
+<a href="https://prannesshkva.vercel.app">
+Portfolio
+</a>
+
+•
+
+<a href="https://linkedin.com/in/prannesshkva">
+LinkedIn
+</a>
+
+•
+
+<a href="mailto:support.sagus@gmail.com">
+Email
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+### "Building intelligent systems that scale from data to decisions."
+
+⭐ Thanks for visiting my profile!
+
+</div>
